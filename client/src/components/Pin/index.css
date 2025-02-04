@@ -1,0 +1,11 @@
+.pin {
+	color: #ff0000;
+}
+
+.pin:hover {
+	color: #ff4d4d;
+}
+
+.pin.current {
+	color: #4a90e2;
+}
